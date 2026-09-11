@@ -15,7 +15,7 @@
   <a href="mailto:jobeff.c@outlook.com">
     <img src="https://img.shields.io/badge/jobeff.c@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/[your-handle]" target="_blank">
+  <a href="https://www.linkedin.com/in/cydric-jobe-caguicla-756039431/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
